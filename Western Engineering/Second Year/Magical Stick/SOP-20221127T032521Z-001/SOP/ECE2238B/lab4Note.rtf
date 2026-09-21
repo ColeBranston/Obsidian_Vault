@@ -1,0 +1,39 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2577
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red151\green0\blue247;\red16\green112\blue10;
+}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;\cssrgb\c66667\c1569\c97647;\cssrgb\c784\c50196\c3529;
+}
+\margl1440\margr1440\vieww18940\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs20 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 % To generate the graphs, use a script in MatLab and write something like this. You can access MatLab with your uwo through a browser\'97no need to download anything.\
+\
+C=1./(((2*pi*[your frequency])^2)*(3.3E-3)); % Calculates and stores the value of the capacitance.\
+R=(.1)*(sqrt((3.3E-3)./C)); % Calculates and stores the value of the resistance.\
+L = 3.3E-3; % Stores the value of L.\
+f=100:10:1E6; % Sets a range for the frequency for the graph to plot over. If you don\'92t have this your graph may be blank.\
+w=2*pi*f; % Converts the frequency range above from Hz to rads/sec.\
+H=R./(R+1i*(w.*L-1./(w.*C))); % Calculates and stores H.\
+\
+\
+plot(w,20*log10(abs(H)));\
+title(\cf3 \strokec3 'Graph of 20log|H(w)| v.s. w'\cf2 \strokec2 )\
+xlabel(\cf3 \strokec3 'Angular Frequency, (rads/s)'\cf2 \strokec2 )\
+ylabel(\cf3 \strokec3 'Gain, (db)'\cf2 \strokec2 )\
+\
+\pard\pardeftab720\partightenfactor0
+\cf4 \strokec4 %  plot(w,angle(H)*(180./pi)); \cf2 \strokec2 \
+\cf4 \strokec4 %  title('Graph of \uc0\u8736 \u934 (w) v.s. w');\cf2 \strokec2 \
+\cf4 \strokec4 %  xlabel('w, (rads/s)');\cf2 \strokec2 \
+\cf4 \strokec4 %  ylabel('\uc0\u8736 \u934 (w), (degrees)' );\cf2 \strokec2 \
+\
+set(gca, \cf3 \strokec3 'XScale'\cf2 \strokec2 , \cf3 \strokec3 'log'\cf2 \strokec2 ); % This scales the axis. Your MatLab graphs should have similar shapes to your MicroCap ones.\
+ \
+% To get the values for particular frequencies to fill in the table, you can type this into the console and the change the frequency to the value you want to get.\
+w=2*pi*f;\
+H=R./(R+1i*(w.*L-1./(w.*C)));\
+20*log10(abs(H))\
+}

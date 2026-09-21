@@ -1,0 +1,1 @@
+If we have multiple charges, each charge exerts a force on each other charge. The total force on a charge is the vector sum of all the forces due to the other charges

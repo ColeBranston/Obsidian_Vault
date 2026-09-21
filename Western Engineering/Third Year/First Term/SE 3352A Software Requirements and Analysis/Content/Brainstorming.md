@@ -1,0 +1,1 @@
+**Brainstorming** (group creativity) is a group technique used to generate multiple ideas on a subject. It draws on the group's collective input to surface different perspectives on a problem or solution, with participants building on each other's ideas.

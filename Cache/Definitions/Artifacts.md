@@ -1,0 +1,1 @@
+Similar to a Java class, requires a name

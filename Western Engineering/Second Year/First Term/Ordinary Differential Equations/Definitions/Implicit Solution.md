@@ -1,0 +1,1 @@
+A relation $G(x,y)=0$ is said to be an implicit solution of an ODE on an interval $I$ provided there exists at least one function $\phi$ that satisfies the relation as well as the differential equation on $I$

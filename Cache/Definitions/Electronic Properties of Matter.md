@@ -1,0 +1,6 @@
+- Normal matter contains a huge number of electrons and protons.
+- The entire electronics industry, not to mention chemistry and biology, depends on the way these charged particles behave in electric fields.
+- Distinguish between: 
+	- conductors 
+	- insulators (including dielectrics) 
+	- semi-conductors

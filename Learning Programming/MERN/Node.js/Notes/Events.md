@@ -1,0 +1,1 @@
+A user induced action that our code has to handle.

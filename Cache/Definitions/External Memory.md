@@ -1,0 +1,3 @@
+- Non-volatile 
+- It is suitable for long-term storage of information, also called secondary storage 
+- Examples: hard disk / SS (Solid-state) storage, flash/pen memory, CD etc.

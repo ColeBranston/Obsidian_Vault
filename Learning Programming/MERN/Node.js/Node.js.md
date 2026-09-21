@@ -1,0 +1,21 @@
+A JavaScript runtime environment based on Google Chrome's V8 JavaScript engine, which allows JavaScript to be used out of the browser
+
+[[Difference between Browser JS and NodeJS]]
+[[Installing NodeJS]]
+[[Global Variables in Node]]
+[[Modules in Node]]
+FIND MORE ABOUT BUILTIN MODULES AT: https://nodejs.org/docs/latest/api/
+[[OS Module]]
+[[Path Module]]
+[[File System Module]]
+[[HTTP Module]]
+[[NPM Info]]
+[[package.json]]
+[[Nodemon]]
+[[Dev Dependencies]]
+[[package-lock.json]]
+[[Event Loop]]
+[[Async Node Native Option]]
+[[Events]]
+[[Events Emitter]]
+[[Streams in Node]]

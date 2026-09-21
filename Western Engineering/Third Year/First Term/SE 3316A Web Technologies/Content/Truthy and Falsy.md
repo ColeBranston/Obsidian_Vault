@@ -1,0 +1,1 @@
+JavaScript uses type coercion in Boolean contexts (`if`, `while`, `&&`, `||`, `!`). A value is **truthy** if it evaluates to `true` in such a context, and **falsy** if it evaluates to `false`. Almost all values are truthy; the falsy values are exactly: `false`, `null`, `""`, `''`, `0`, `NaN`, and `undefined`.

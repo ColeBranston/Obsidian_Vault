@@ -1,0 +1,6 @@
+- Java is an Object-Oriented Programming Language, we always need to create a class to create any code in Java. 
+- To be able to execute a code in Java, this class must have a method called main(). 
+- Take Away: 
+	- Java is a virtual-machine dependent high-level language. 
+	- Java is an Object-Oriented programming Language. 
+	- We must have at least one class in Java and that must contain a method called main() to be able to execute any Java code.

@@ -1,0 +1,1 @@
+Are made of a programming language called BSON which is just binary JSON. It looks very much like a JSON (JavaScript object notation) object and is referenced the same way. 

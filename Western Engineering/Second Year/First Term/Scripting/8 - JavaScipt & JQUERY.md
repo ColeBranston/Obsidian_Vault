@@ -1,0 +1,6 @@
+---
+aliases:
+  - JQUERY
+---
+
+![[DOM]]

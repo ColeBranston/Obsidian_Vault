@@ -1,0 +1,1 @@
+can be any real number → infinite number of solutions

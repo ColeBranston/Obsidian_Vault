@@ -1,0 +1,1 @@
+has a probability distribution that specifies the list of possible values of *X* along with the probability of each, or it can be expressed in terms of a function or formula.

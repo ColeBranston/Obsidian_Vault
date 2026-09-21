@@ -1,0 +1,2 @@
+- In order to understand, analyze and evaluate an argument, it can be helpful to display it in a way that makes clear precisely what are the premises and what is the conclusion.
+- This way of displaying arguments is known as the **standard form** (or **standard format**)

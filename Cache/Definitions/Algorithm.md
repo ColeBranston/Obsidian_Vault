@@ -1,0 +1,8 @@
+- An ordered sequence of well-defined instructions (NOT a computer program) that gives an initial state, performs some task and halts in a finite time. 
+- Algorithms can be illustrated by one or more of the following ways: 
+	- Unified Modeling Language (UML) 
+		- The unified modeling language is the standard modeling language for object-oriented program design. 
+	- Pseudo-code
+		- Kind of code-structure presented in English for describing algorithms 
+	- Flow-Charts 
+		- Often used to represent program procedures graphically.

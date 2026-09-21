@@ -1,0 +1,1 @@
+Classes are the fundamental building blocks of object-orientated orientated programming. They act as blueprints or templates for creating objects.

@@ -1,0 +1,3 @@
+**Advantages:** control of data redundancy · data consistency · more information from the same amount of data · sharing of data · improved data integrity · improved security · enforcement of standards · economy of scale · balanced conflicting requirements · improved data accessibility and responsiveness · increased productivity · improved maintenance through data independence · increased concurrency · improved backup and recovery services
+
+**Disadvantages:** complexity · size · cost of the DBMS itself · additional hardware costs · cost of conversion · possible performance overhead · higher impact of a failure (unless failover and backup systems are established)

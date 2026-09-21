@@ -1,0 +1,1 @@
+The order of a [[Differential Equation]] is the order of the highest derivative in the equation.

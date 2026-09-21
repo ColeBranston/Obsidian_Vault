@@ -1,0 +1,42 @@
+
+___
+
+<p id="orange"> Schedule </p>
+# 🧠 Summer Daily Checklist
+
+## 🌅 Morning Routine
+- [x] Wake up by 9:00 AM
+- [x] Get sunlight within 30 minutes of waking
+- [ ] Drink a full glass of water
+- [x] Light morning stretch or short walk
+- [ ] High-protein breakfast (eggs, yogurt, etc.)
+
+## 🔧 Midday Productivity
+- [ ] 2 hours of low-stress focused work or learning
+- [ ] Take short breaks between tasks
+
+## 🏋️ Exercise
+- [ ] At least 30 minutes of physical activity (weights, run, walk, etc.)
+
+## 🍽️ Nutrition
+- [ ] Balanced lunch (protein, carbs, veggies)
+- [ ] Balanced dinner (lighter than lunch)
+- [ ] No caffeine or sugar after 6 PM
+
+## 🎨 Afternoon Engagement
+- [ ] Spend time on a hobby or passion project
+- [ ] Take 30–60 minutes to relax or meditate
+
+## 🌙 Evening Wind-Down
+- [ ] No intense work after 8 PM
+- [ ] Avoid screens or use blue light filters
+- [ ] Take a warm shower or read something relaxing
+
+## 😴 Sleep
+- [ ] In bed by 10:30–11:00 PM
+- [ ] No phone in bed
+- [ ] Room cool and dark
+
+---
+
+✅ Stick to this 70–80% of the time and reassess after 2–3 weeks.

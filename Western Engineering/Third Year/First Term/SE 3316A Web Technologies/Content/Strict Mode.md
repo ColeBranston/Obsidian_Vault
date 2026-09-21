@@ -1,0 +1,3 @@
+Activated with `"use strict";` as the first line of a script or function. It turns silent failures into thrown errors: variables must be declared, an assignment that would silently fail now errors, undeletable properties can't be deleted, property/parameter names must be unique, octal numbers need the `0o` prefix instead of a leading `0`, and primitives (numbers, strings) can't have properties set on them.
+
+Benefits: makes code easier for the engine to optimize, and catches typo bugs early (e.g. assigning to `tehCost` instead of `theCost` throws instead of silently creating a new global). Downside: very old browsers may not support it, so test in both.

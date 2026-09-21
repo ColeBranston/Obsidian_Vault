@@ -1,0 +1,1 @@
+the compiler makes exception-handling mandatory (check and deal with exception); the code will not compile if the exception is not checked. eg. **FileNotFoundException**, which is a child of **IOException**.

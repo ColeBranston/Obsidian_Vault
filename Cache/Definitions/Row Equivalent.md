@@ -1,0 +1,1 @@
+Matrices obtained one from the other by a sequence of these operations

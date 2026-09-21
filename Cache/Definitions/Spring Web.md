@@ -1,0 +1,1 @@
+Spring dependency used in Spring Initializer for REST APIs. Uses APACHE TOMCAT.

@@ -1,0 +1,5 @@
+- Holds both program instructions and data
+- Also called *Primary Storage* and composed of: 
+- ![[Random Access Memory (RAM)]]
+- ![[Read-Only Memory (ROM)]]
+- When any data is inputted through the input device, it directly goes to the main memory (RAM).

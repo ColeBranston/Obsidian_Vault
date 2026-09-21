@@ -1,0 +1,3 @@
+![[Searching]]
+
+![[Linear Search Approach]]

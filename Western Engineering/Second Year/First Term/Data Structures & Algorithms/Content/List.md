@@ -1,0 +1,1 @@
+A collection that numbers (first, second so on) its items

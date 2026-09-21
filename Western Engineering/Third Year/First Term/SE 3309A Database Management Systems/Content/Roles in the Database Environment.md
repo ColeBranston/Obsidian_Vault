@@ -1,0 +1,5 @@
+- **Data Administrator (DA)** — manages the organization's data resource
+- **Database Administrator (DBA)** — manages the physical [[Database Management System|DBMS]] and database
+- **Database Designers** — logical and physical designers who model the data
+- **Application Programmers** — build the programs that access the database
+- **End Users** — *naive* (use pre-built applications) and *sophisticated* (write their own queries)

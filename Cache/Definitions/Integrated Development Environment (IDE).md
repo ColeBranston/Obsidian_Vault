@@ -1,0 +1,8 @@
+- An Integrated development environment (IDE) consists of a text editor, compiler, debugger, and other utilities integrated into a package with a single set of menus.
+- In an IDE, a program is compiled and executed with a single click of a button, or by selecting a single item from a menu.
+- Some frequently used IDEs:
+	- Eclipse Open Source by IBM
+	- NetBeans Open Source by Oracle
+	- IntelliJ IDEA by JetBrains
+	- Android Studio by Google and more
+	- In ES1036, we will use IntelliJ IDEA IDE

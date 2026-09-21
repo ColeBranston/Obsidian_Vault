@@ -1,0 +1,1 @@
+HTML elements are created through tags. Tags refer to the HTML element

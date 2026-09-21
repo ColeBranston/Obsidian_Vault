@@ -1,0 +1,3 @@
+- Remember that the electrons in a conductor are free to move around. The presence of an applied electric field can change the distribution of charge on a conductor. 
+- This gives conductors some interesting properties. 
+- We already saw that any excess charge in a conductor sits on its surface.

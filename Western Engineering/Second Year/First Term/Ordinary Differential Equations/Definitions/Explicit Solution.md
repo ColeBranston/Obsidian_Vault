@@ -1,0 +1,1 @@
+Any solution in which the dependent variable is expressed solely in terms of the independent variable and constant.

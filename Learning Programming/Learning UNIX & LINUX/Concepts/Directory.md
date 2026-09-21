@@ -1,0 +1,1 @@
+The path at which the user is accessing files. A directory consists of both a path and contents within

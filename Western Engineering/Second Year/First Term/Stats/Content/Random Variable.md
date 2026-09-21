@@ -1,0 +1,1 @@
+a function that assigns a real number to each outcome in the sample space of a random experiment

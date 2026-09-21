@@ -1,0 +1,1 @@
+Databases that don't require SQL to query. Unlike RDBs (Relational Database) or SQL databases that are made up of tables, No SQL databases are made up of [[collections and documents.]]

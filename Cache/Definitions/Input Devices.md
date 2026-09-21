@@ -1,0 +1,1 @@
+- Input devices input information into the CPU (Central Processing Unit) via the memory of the computer. E.g., Keyboard (standard input), mouse, scanner, microphone etc.

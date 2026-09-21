@@ -1,0 +1,3 @@
+- Unordered (eg. a bag full of grocery)
+- Hierarchical (eg. a file system on a pc)
+- Graph (eg. airline connections between the cities of a country)

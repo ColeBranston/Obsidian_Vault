@@ -1,0 +1,2 @@
+- Non-volatile: data items are retained even if the computer is turned off.
+- Stores start-up instructions and the likes for a computer system.

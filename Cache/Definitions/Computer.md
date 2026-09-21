@@ -1,0 +1,1 @@
+- Programmable machine designed to follow/process data/instructions at an enormous speed.

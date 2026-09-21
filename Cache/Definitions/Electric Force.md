@@ -1,0 +1,4 @@
+- Force is a vector quantity. The electric force is directed along the line joining the two particles. $F_12$ is:
+		- positive (repulsive) when the two charges have the same sign.
+		- negative (attractive) between charges of opposite sign
+- The magnitude of the force depends only on the magnitudes of the charges and the separation.

@@ -1,0 +1,1 @@
+When we refer to the state of a component we are just referring to the data being used in that component at that point in time.

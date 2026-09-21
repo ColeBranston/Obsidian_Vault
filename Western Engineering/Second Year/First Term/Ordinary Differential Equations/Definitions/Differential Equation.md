@@ -1,0 +1,1 @@
+An equation containing the derivatives of one more more dependent variables, with respect to one or more independent variables, is said to be a **differential equation**.

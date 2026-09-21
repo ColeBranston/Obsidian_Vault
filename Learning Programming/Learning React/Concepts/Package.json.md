@@ -1,0 +1,1 @@
+Files used to define and link dependencies. In this use-case in [[React]] its use is to link scripts used following **"npm "**  in the terminal to packages in the [[node_modules]] file in addition to listing dependencies found in the [[node_modules]] file once more.

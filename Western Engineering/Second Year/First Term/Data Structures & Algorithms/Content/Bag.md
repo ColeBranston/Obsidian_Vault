@@ -1,0 +1,1 @@
+Unordered collection, may contain duplicates

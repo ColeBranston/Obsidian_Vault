@@ -1,0 +1,4 @@
+- Refers to the computer programs
+- Example of different types of software:
+	- Operating system: a software that provides a convenient and efficient interface between the user and the hardware, Eg. Windows, Mac OS, etc.
+	- Application Software: The software that make the computer useful to the user Eg. Computer Games, Spreadsheets, Word processors, Tax software etc.

@@ -1,0 +1,1 @@
+- Before creating any object, the characteristics (data and procedures) of an object need to be outlined in a blue-print (or program-structure or program-code-template ) called class. 

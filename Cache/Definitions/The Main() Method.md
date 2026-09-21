@@ -1,0 +1,12 @@
+- It is the entry point of any Java program. Every JVM starts executing its instructions from the main() method. This method is also known as driver method. The class containing the driver-method is sometimes called a driver- class.
+- The main() method-header has the form: public static void main(String[] args) or public static void main(String[] anyName)
+- anyName must be a Java-accepted valid name.
+- **Note:** Java source programs are case sensitive. It would be wrong, (for example) to replace main in the program with Main.
+- ![[Pasted image 20240115173056.png]]
+- All statements in the main method (and in all other methods) must be enclosed in a code-block; a code-block starts with left curly brace ‘{’ and ends with right curly brace ‘}’.
+- A java application cannot run unless one of the classes has a main() method.
+- The JVM loads the class that contains main() method and starts executing instructions from inside the main() method first.
+- The keywords public, static and void are required in the main() method header.
+	- public: the method can be called by any object-reference (Discussed in detail later)
+	- static: static methods or fields are called or used without any object-reference. Since main() is the entry point in java, to run the program, main method is invoked/called without creating any object. (Discussed in detail later)
+	- void: nothing will be returned from this method (Discussed in detail later)

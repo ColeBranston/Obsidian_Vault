@@ -1,0 +1,1 @@
+Nodemon simply restarts/reloads your express server when file changes, otherwise you need to kill & restart manually.

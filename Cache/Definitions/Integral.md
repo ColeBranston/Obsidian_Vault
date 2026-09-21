@@ -1,0 +1,1 @@
+An integral is defined as the sum over many small segments, in the limit that the number of segments goes to infinity and their size goes to zero:

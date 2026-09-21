@@ -1,0 +1,1 @@
+This characteristic describes how the data structures are *compiled*. The static data structures have fixed sizes, structures and memory locations at compile time. The dynamic data structures have sizes, structures and memory locations that can shrink or expand, depending on the use. 

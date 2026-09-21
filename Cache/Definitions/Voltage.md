@@ -1,0 +1,1 @@
+potential of positive terminal minus potential of negative terminal

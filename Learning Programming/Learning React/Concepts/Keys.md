@@ -1,0 +1,1 @@
+**When displaying data from a list** in [[React]], you **must use the "key="** (In the JSX element) **parameter assigned to the index of the used item in the list**, to tell [[React]] what list item's [[state]] was altered. I believe it's an efficiency thing that stops [[React]] from checking every list reference rather than the actual list reference that contains the change. 

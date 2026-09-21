@@ -1,0 +1,1 @@
+**Data abstraction** uses a *data model* to hide the physical storage details of a [[Database]] and present users with a conceptual view instead — users interact with what the data means, not how it's stored on disk.

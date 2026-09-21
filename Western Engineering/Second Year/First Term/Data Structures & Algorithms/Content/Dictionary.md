@@ -1,0 +1,2 @@
+- Pairs of items – (key and value) 
+- Can be sorted or not

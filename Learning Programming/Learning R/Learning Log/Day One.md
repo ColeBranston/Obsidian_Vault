@@ -1,0 +1,1 @@
+- R is used for data management and statistic analysis. It is visibly a mashup up between Java, Python, and the assignment operator, “=“ is “<-” in R. 

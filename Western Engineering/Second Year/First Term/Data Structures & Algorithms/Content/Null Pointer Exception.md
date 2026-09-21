@@ -1,0 +1,1 @@
+is thrown if you try to access an object through a reference variable before an object is assigned to it

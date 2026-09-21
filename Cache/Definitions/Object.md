@@ -1,0 +1,3 @@
+- Object-oriented programming (OOP) is centered on creating objects, where objects are a combination of data and procedures, which are the characteristics of Object. 
+	- Data-item in an object is known as field or attribute or data member or instance variable
+	- Procedure in an object is known as method or member-function or member - method 

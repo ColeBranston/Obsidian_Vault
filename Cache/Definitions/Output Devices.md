@@ -1,0 +1,1 @@
+- Output devices are used to make the computer-processed data/information available at the output. E.g., Computer monitor (standard output ), printer, plotter etc.

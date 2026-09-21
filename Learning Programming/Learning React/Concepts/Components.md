@@ -1,0 +1,1 @@
+A function that returns a JSX template and is exported at the bottom of the file

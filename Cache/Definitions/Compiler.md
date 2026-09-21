@@ -1,0 +1,2 @@
+A general compiler translates the entire source code into a machine-code file (known as object-code), and the machine-code file is then executed. C++ uses a compiler.
+![[Pasted image 20240111232400.png]]

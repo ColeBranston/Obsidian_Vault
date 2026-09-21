@@ -1,0 +1,1 @@
+$$(a+b)^n = \sum ^n _{k=0} {n\choose k} a^k b^{n-k}$$

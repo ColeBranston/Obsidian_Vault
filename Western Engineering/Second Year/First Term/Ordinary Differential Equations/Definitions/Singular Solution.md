@@ -1,0 +1,1 @@
+Sometimes an nth order differential equation possesses a solution that is not a member of an n parameter family of solutions of the equation - that is, a solution that cannot be obtained by specializing any of the parameters in the family of solutions. Such a solution is called a singular solution.

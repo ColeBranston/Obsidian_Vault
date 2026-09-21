@@ -1,0 +1,1 @@
+Reference types in Java include classes, interfaces, arrays, and enumerations. They are created by the programmer and are not predefined like primitive types. All reference types are subclasses of _java.lang.Object_, which is the root of the class hierarchy in Java. This means that any reference type can be assigned to a variable of type _Object_.

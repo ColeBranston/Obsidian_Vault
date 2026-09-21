@@ -1,0 +1,1 @@
+Similar to a Java package, requires a name.

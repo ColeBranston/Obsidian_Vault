@@ -1,0 +1,8 @@
+- Comments allow programmers to put some descriptions inside the code (For this course, writing comments is mandatory.)
+- Comments are not programming statements and thus are ignored by the compiler.
+- Three types: (let’s flip back some slides and check the code)
+	- Line comment is preceded by two slashes // on a line
+	- Paragraph comment is enclosed between /* and */ on one or several lines
+	- javadoc comments begin with /** and end with */
+- When the compiler sees //, it ignores all text after // on the same line
+- When it sees /* (or /**), it looks for the next */ and ignores any text between /* (or /**) and */

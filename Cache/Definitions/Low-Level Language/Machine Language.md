@@ -1,0 +1,5 @@
+- A computer hardware understands this language only, which is written using two alphabets: 0 and 1 
+- Also called low-level language, or binary language
+- This is a memory efficient language with very fast execution time. 
+- However, it is very tedious for programmers to write, debug and maintain low-level programs, and so nowadays it is not much in practice. 
+- They are mostly used to develop operating systems, device drivers, databases and applications that requires direct hardware access.

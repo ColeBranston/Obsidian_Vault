@@ -1,0 +1,1 @@
+Text between `<noscript>` and `</noscript>` is only shown to users without the ability to load JavaScript — often to prompt them to enable it, though it can also add text search engines will see. Requiring JavaScript for a site's basic operation causes problems eventually and should be avoided; providing functional replacements for users without JS is called **fail-safe design**.

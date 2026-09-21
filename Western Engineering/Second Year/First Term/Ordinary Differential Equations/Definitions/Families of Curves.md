@@ -1,0 +1,1 @@
+The idea of a family of curves is analogous to finding the antiderivative with a constant of integration.

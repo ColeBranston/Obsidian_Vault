@@ -1,0 +1,1 @@
+- Refers to the computer equipment, eg. Keyboard, mouse, terminal, hard disk, printer.

@@ -1,0 +1,13 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/ascroob/Documents/Second Year/ECE2277/Lab01/Lab01.bdf
+source_file = 1, C:/Users/ascroob/Documents/Second Year/ECE2277/Lab01/Lab01POS.bdf
+source_file = 1, C:/Users/ascroob/Documents/Second Year/ECE2277/Lab01/Waveform4.vwf
+source_file = 1, C:/Users/ascroob/Documents/Second Year/ECE2277/Lab01/Waveform5.vwf
+source_file = 1, C:/Users/ascroob/Documents/Second Year/ECE2277/Lab01/db/Lab01.cbx.xml
+design_name = Lab01
+instance = comp, \F~output , F~output, Lab01, 1
+instance = comp, \C~input , C~input, Lab01, 1
+instance = comp, \B~input , B~input, Lab01, 1
+instance = comp, \A~input , A~input, Lab01, 1
+instance = comp, \D~input , D~input, Lab01, 1
+instance = comp, \inst5~0 , inst5~0, Lab01, 1

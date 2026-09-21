@@ -1,0 +1,1 @@
+Import the Scanner class only: import java.util.Scanner;

@@ -1,0 +1,1 @@
+**Solution requirements** describe the characteristics of a solution in enough detail to design it. They split into two categories: [[Functional Requirement|functional requirements (FRs)]] and [[Non-Functional Requirement|non-functional requirements (NFRs)]].

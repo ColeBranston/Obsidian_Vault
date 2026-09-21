@@ -1,0 +1,7 @@
+- Uses English-like command and instruction along with some acronyms and mathematical symbols. 
+- Example: the following statement computes the area of a circle with radius 5: area = 5 * 5 * 3.1415; 
+- A program written in a high-level language is called a source program or source code. 
+- Easier to write than machine and assembly languages 
+- Processor/machine independent 
+- Must be translated into machine language. This translator is known as compiler. 
+- Based on the process of translation, the compiler can be called as an interpreter.

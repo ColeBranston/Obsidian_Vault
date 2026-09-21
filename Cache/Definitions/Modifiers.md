@@ -1,0 +1,10 @@
+- Java uses certain reserved words called modifiers that specify the properties of the fields(data members/ Attributes), methods and classes, and how they can be used.
+- Examples of modifiers are (discussed later)
+	- public
+	- static
+	- private
+	- final
+	- abstract
+	- protected
+- Local variable or local object reference in Java-methods can only be modified (if needed) using final modifier. No other modifier can be used for local variable or local object reference
+- **Note**: a variable or object reference declared within a method-block or method header, or decision-structure block is ‘local’ in the respective block.

@@ -1,0 +1,1 @@
+Allows you to make requests to the server deployed at a different domain
