@@ -18,7 +18,7 @@ tags: [SE3351A, ProjectManagement]
 > | ⤷ `Project Management Mindset` | 10-17 · 19-20 The project Management Mindset |
 > | ⤷ `Sustainability Pyramid` | 18 The project Management Mindset (Sustainability Pyramid) |
 > | **PMI Talent Triangle** | 21-22 PMI Talent Triangle |
-> | ⤷ `Ways of Knowing` | 23 Ways of Knowing |
+> | ⤷ `Ways of Working` | 23 Ways of Working |
 > | ⤷ `Business Acumen` | 24 Business Acumen |
 > | ⤷ `Power Skills` | 25 Power Skills |
 
@@ -48,7 +48,7 @@ tags: [SE3351A, ProjectManagement]
 
 ![[PMI Talent Triangle]]
 
-![[Ways of Knowing]]
+![[Ways of Working]]
 
 ![[Business Acumen]]
 

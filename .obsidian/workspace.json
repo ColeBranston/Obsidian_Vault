@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Western Engineering/Third Year/First Term/SE 3351A Software Project and Process Management/Note/03 - Project Initiation (Part 1).md",
+                "file": "Western Engineering/Third Year/First Term/SE 3351A Software Project and Process Management/Note/02 - The Project Manager.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "03 - Project Initiation (Part 1)"
+              "title": "02 - The Project Manager"
             }
           }
         ]
@@ -185,8 +185,11 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "e92095feb17763a6",
+  "active": "4c8c60165ced8369",
   "lastOpenFiles": [
+    "Western Engineering/Third Year/First Term/SE 3351A Software Project and Process Management/Note/03 - Project Initiation (Part 1).md",
+    "Western Engineering/Third Year/First Term/SE 3351A Software Project and Process Management/Content/Ways of Working.md",
+    "Western Engineering/Third Year/First Term/SE 3351A Software Project and Process Management/Content/PMI Talent Triangle.md",
     "Western Engineering/Third Year/First Term.zip",
     "Western Engineering/Third Year/First Term/SE 3351A Software Project and Process Management/Content/Develop Project Charter.md",
     "Western Engineering/Third Year/First Term/SE 3351A Software Project and Process Management/Content/Project Charter.md",
@@ -211,8 +214,6 @@
     "Western Engineering/Third Year/First Term/SE 3352A Software Requirements and Analysis/Content/Questionnaires and Surveys.md",
     "Western Engineering/Third Year/First Term/SE 3352A Software Requirements and Analysis/Content/Brainstorming.md",
     "Western Engineering/Third Year/First Term/SE 3352A Software Requirements and Analysis/Content/Focus Group.md",
-    "Western Engineering/Third Year/First Term/SE 3352A Software Requirements and Analysis/Content/Facilitated Workshop.md",
-    "Western Engineering/Third Year/First Term/SE 3352A Software Requirements and Analysis/Content/Interview.md",
     "Western Engineering/Third Year/First Term/SE 3309A Database Management Systems.zip",
     "Western Engineering/Third Year/First Term/SE 3310A Theoretical Foundations of Software Engineering/Images/Turnstile.png",
     "Western Engineering/Third Year/First Term/SE 3310A Theoretical Foundations of Software Engineering/Images/Graphviz Example Output.png",
