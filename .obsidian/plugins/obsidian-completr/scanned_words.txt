@@ -1139,6 +1139,10 @@ Together
 Throw
 Tree
 Touch
+Tech
+Transition
+Transitions
+Toward
 are
 accounts
 account
@@ -2369,6 +2373,8 @@ analogous
 agile
 artifacts
 ambiguity
+aba
+acceptance
 three
 to
 treated
@@ -3410,9 +3416,6 @@ talk
 typing
 thrown
 throwing
-tied
-tailoring
-triangle
 different
 dealing
 dealt
@@ -4596,6 +4599,15 @@ docker
 drain
 drains
 delayed
+diagrams
+dashed
+die
+defer
+demanding
+drops
+deterministically
+dies
+drafts
 inventory
 in
 is
@@ -5708,8 +5720,6 @@ increments
 indexed
 interrupts
 implicitly
-interpersonal
-innovative
 for
 far
 formerly
@@ -6703,6 +6713,8 @@ fields
 fan
 familiar
 flips
+freedoms
+fork
 when
 with
 way
@@ -7614,7 +7626,6 @@ wireless
 watch
 wire
 waits
-waterfall
 manufacturing
 methods
 manufactured
@@ -8695,7 +8706,6 @@ modify
 meant
 mouse
 multiply
-mimic
 Raw
 Reminders
 Read
@@ -9858,6 +9868,10 @@ Reversing
 Reversed
 Reusing
 RequirementsElicitation
+Remark
+RING
+RINGS
+Rejected
 Materials
 Manufacturing
 Measurable
@@ -10926,6 +10940,8 @@ Mouse
 MDN
 Max
 Multiplexing
+MiniNet
+Machines
 Work
 WIP
 Workout
@@ -11891,6 +11907,8 @@ Wired
 Ways
 Weak
 Window
+Wireshark
+Wait
 progress
 purposes
 pRM
@@ -13116,7 +13134,6 @@ prototype
 practical
 pkt
 proc
-producing
 Finished
 FIFO
 Factory
@@ -14192,6 +14209,7 @@ Further
 Functional
 Formula
 Fiber
+Foundations
 Goods
 Goals
 Goal
@@ -16559,6 +16577,16 @@ semantics
 separating
 smoothly
 signal
+sitting
+somewhere
+survives
+surviving
+succeeds
+subset
+soon
+suffices
+suffix
+sentence
 retail
 raw
 reasonable
@@ -17750,6 +17778,12 @@ respond
 requests
 readable
 recover
+rows
+resolved
+removes
+rejects
+rejection
+roughly
 have
 how
 has
@@ -19619,7 +19653,6 @@ outline
 offered
 omitted
 objective
-organizational
 PLUG
 Progress
 Process
@@ -20787,6 +20820,9 @@ Passing
 Prototypes
 Prioritization
 Path
+Prep
+PER
+Partly
 number
 now
 normal
@@ -21694,6 +21730,7 @@ narrate
 newspapers
 ness
 newer
+neither
 COGS
 Cost
 CORMU
@@ -22855,8 +22892,6 @@ Callback
 Changing
 Containers
 Companion
-Competence
-Charter
 Of
 Overhead
 Offices
@@ -23862,6 +23897,8 @@ Oversees
 Owners
 Operators
 OBJECTS
+Obsidian
+Omit
 Used
 Use
 UO
@@ -24858,6 +24895,7 @@ Underlies
 UWO
 UTF
 Uwt
+Union
 be
 balance
 break
@@ -25863,8 +25901,6 @@ banking
 broadcast
 binary
 blueprint
-behaviors
-brainstorming
 cost
 costs
 categories
@@ -27183,9 +27219,6 @@ conditional
 category
 conventionally
 caveat
-covering
-craft
-charter
 Average
 After
 Application
@@ -28336,7 +28369,6 @@ Alert
 Accessing
 Alerts
 Azure
-Applying
 Should
 Sales
 Spread
@@ -29656,7 +29688,6 @@ State
 Substring
 Submitting
 Symbols
-Selecting
 DEBITED
 Direct
 Deck
@@ -30723,6 +30754,8 @@ Declaring
 DOM
 Defined
 Docker
+Deploy
+Determinism
 In
 It
 Instead
@@ -31702,6 +31735,8 @@ Inputs
 Integers
 Inline
 Included
+Interpretations
+ING
 under
 units
 use
@@ -32623,6 +32658,7 @@ understood
 unread
 uplinks
 university
+unaffected
 Labour
 Layout
 Learn
@@ -33654,7 +33690,6 @@ Least
 Libraries
 Loops
 Listener
-LMS
 ending
 estimate
 engineers
@@ -34690,6 +34725,10 @@ enforcement
 emergency
 expanded
 exception
+eventually
+execute
+eliminates
+enforcing
 goods
 get
 given
@@ -35550,6 +35589,8 @@ grammars
 generative
 genuinely
 grocery
+guesses
+guessing
 Valuation
 Valuing
 Vietnam
@@ -36447,6 +36488,8 @@ Verb
 Views
 Variant
 Validating
+Vault
+Via
 Ending
 Example
 Engineers
@@ -37597,6 +37640,9 @@ Everyday
 English
 Embedded
 Elicitation
+Ends
+Effort
+Execution
 Balance
 Brazil
 But
@@ -39433,6 +39479,7 @@ valued
 view
 visiting
 vital
+verdict
 Job
 Jamaica
 Jk
@@ -41476,6 +41523,7 @@ looping
 longest
 leg
 literal
+labelled
 Note
 Notice
 Negation
@@ -42434,6 +42482,9 @@ Newspaper
 Nodes
 Navigating
 Nodal
+Networking
+NFA
+NFAs
 You
 YO
 Yi
