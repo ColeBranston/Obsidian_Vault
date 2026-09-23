@@ -2372,6 +2372,8 @@ away
 analogous
 aba
 acceptance
+aggregation
+association
 three
 to
 treated
@@ -3417,6 +3419,9 @@ takeaway
 terminates
 traces
 trace
+typingSpeed
+triangle
+tighten
 different
 dealing
 dealt
@@ -4609,6 +4614,7 @@ drops
 deterministically
 dies
 drafts
+diamond
 inventory
 in
 is
@@ -5723,6 +5729,7 @@ interrupts
 implicitly
 illegal
 indeed
+inherits
 for
 far
 formerly
@@ -6718,6 +6725,7 @@ familiar
 flips
 freedoms
 fork
+faint
 when
 with
 way
@@ -8713,6 +8721,9 @@ multiply
 mirrors
 mechanically
 moved
+mgrStartDate
+member
+multiplicities
 Raw
 Reminders
 Read
@@ -9879,6 +9890,8 @@ Remark
 RING
 RINGS
 Rejected
+Representing
+Robert
 Materials
 Manufacturing
 Measurable
@@ -10949,6 +10962,11 @@ Max
 Multiplexing
 MiniNet
 Machines
+Mary
+Martinez
+Mandatory
+Multiplicities
+Mermaid
 Work
 WIP
 Workout
@@ -11916,6 +11934,7 @@ Weak
 Window
 Wireshark
 Wait
+White
 progress
 purposes
 pRM
@@ -15195,6 +15214,7 @@ Generalizes
 Github
 Got
 Grid
+Generalization
 same
 should
 specific
@@ -16599,6 +16619,15 @@ soon
 suffices
 suffix
 sentence
+specialization
+staffNo
+salesArea
+secretarial
+subclass
+superclass
+specialized
+stereotyped
+sits
 retail
 raw
 reasonable
@@ -17796,6 +17825,7 @@ removes
 rejects
 rejection
 roughly
+recursive
 have
 how
 has
@@ -18738,6 +18768,7 @@ hospitals
 haven
 halting
 hosted
+holding
 only
 of
 one
@@ -19666,6 +19697,7 @@ offered
 omitted
 objective
 outgoing
+overlaps
 PLUG
 Progress
 Process
@@ -20836,6 +20868,9 @@ Path
 Prep
 PER
 Partly
+PrivateOwner
+Person
+POwns
 number
 now
 normal
@@ -21744,6 +21779,7 @@ newspapers
 ness
 newer
 neither
+nulls
 COGS
 Cost
 CORMU
@@ -22913,6 +22949,9 @@ Closures
 Containing
 Cells
 Careful
+Contracts
+Composition
+Chin
 Of
 Overhead
 Offices
@@ -23920,6 +23959,7 @@ Operators
 OBJECTS
 Obsidian
 Omit
+Owns
 Used
 Use
 UO
@@ -25924,6 +25964,7 @@ binary
 blueprint
 branching
 bullet
+bonus
 cost
 costs
 categories
@@ -27249,6 +27290,10 @@ construction
 closure
 cut
 coincide
+composition
+carAllowance
+constraint
+circled
 Average
 After
 Application
@@ -28400,6 +28445,11 @@ Accessing
 Alerts
 Azure
 Automaton
+AllStaff
+Aggregation
+Advert
+Assistant
+Asst
 Should
 Sales
 Spread
@@ -29722,6 +29772,16 @@ Symbols
 Sets
 Symbol
 Shape
+Subclasses
+Subclass
+Superclass
+SalesPersonnel
+Secretary
+Supervisor
+Stuart
+Stern
+Snr
+Susan
 DEBITED
 Direct
 Deck
@@ -30790,6 +30850,7 @@ Defined
 Docker
 Deploy
 Determinism
+Disjoint
 In
 It
 Instead
@@ -33726,6 +33787,7 @@ Loops
 Listener
 Leftover
 Last
+Lots
 ending
 estimate
 engineers
@@ -34765,6 +34827,7 @@ eventually
 execute
 eliminates
 enforcing
+export
 goods
 get
 given
@@ -35627,6 +35690,7 @@ genuinely
 grocery
 guesses
 guessing
+generalization
 Valuation
 Valuing
 Vietnam
@@ -37679,6 +37743,7 @@ Elicitation
 Ends
 Effort
 Execution
+Employment
 Balance
 Brazil
 But
@@ -38666,6 +38731,9 @@ Back
 Basics
 BABOK
 Builds
+BusinessOwner
+Beech
+BOwns
 value
 valuing
 vice
@@ -40536,6 +40604,7 @@ Jan
 Join
 Javascript
 JAVASCRIPT
+John
 labour
 look
 labor
@@ -41560,6 +41629,7 @@ longest
 leg
 literal
 labelled
+legible
 Note
 Notice
 Negation
@@ -42521,6 +42591,7 @@ Nodal
 Networking
 NFA
 NFAs
+Nondisjoint
 You
 YO
 Yi
@@ -45114,6 +45185,8 @@ Hilbert
 Has
 Hoisting
 Header
+Holding
+Howe
 Kinds
 KY
 KO
