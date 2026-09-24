@@ -1,11 +1,11 @@
-**Aggregation** represents a **"has-a"** or **"is-part-of"** relationship between entity types, where one is the **whole** and the other is the **part**.
+**Aggregation** represents a **"has-a"** or **"is-part-of"** [[Relationship Type]] between entity types, where one is the **whole** and the other is the **part**.
 
-- The part **can** exist without the whole.
-- The part may be **shared** by many wholes.
+- UML notation: a **hollow diamond** on the *whole's* end of the line.
+- The part **can exist without** the whole.
+- The part **may be shared** by many wholes.
+- A stronger form is [[Composition]].
 
-In UML it's drawn as a **hollow diamond** on the *whole's* end of the relationship. The stricter version is [[Composition]].
-
-*Examples of aggregation: Branch is the whole in both Has and Offers (slide 24)*
+*Branch as the whole in Has and Offers; Oversees is a plain association (slide 24)*
 
 ```mermaid
 classDiagram
@@ -23,6 +23,4 @@ classDiagram
     Staff "0..1" -- "0..100" PropertyForRent : Oversees
 ```
 
-- **Has**: Branch = whole, Staff = part.
-- **Offers**: Branch = whole, PropertyForRent = part.
-- **Oversees** is an ordinary relationship with no diamond. Neither side is part of the other.
+- `Staff` is the part in **Has**; `PropertyForRent` is the part in **Offers**; `Branch` is the whole in both.

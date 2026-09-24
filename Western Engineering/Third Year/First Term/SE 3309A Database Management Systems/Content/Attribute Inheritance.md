@@ -1,3 +1,3 @@
-**Attribute inheritance**: an entity in a [[Superclass and Subclass|subclass]] represents the same real-world object as its superclass entity. So it has the superclass's attributes *plus* any subclass-specific attributes of its own.
+**Attribute inheritance:** an entity in a [[Subclass]] is the same real-world object as its entity in the [[Superclass]], so it has the superclass's attributes as well as any subclass-specific ones.
 
-E.g. a Manager has staffNo, name, position, and salary (inherited from Staff) as well as mgrStartDate and bonus (its own).
+- e.g. a `Manager` has `staffNo · name · position · salary` from `Staff`, plus its own `mgrStartDate · bonus`.
