@@ -1,10 +1,10 @@
 - [x] Finish Web Tech lab
 	- [x] Deploy to AWS
 
-- [ ] Complete Lab 2 for Software Req. & Analysis
+- [x] Complete Lab 2 for Software Req. & Analysis
 
 - [ ] Complete Networking Lab 1
-	- [ ] Prep by reading over material and ensuring MiniNet and Wireshark are installed
+	- [x] Prep by reading over material and ensuring MiniNet and Wireshark are installed
 
 - [ ] Complete Foundations of Software Lab 1
 	- [ ] Check Lab 1 Via Gradescope for requirements
@@ -15,8 +15,8 @@
 ## Fall 2026 Deadlines
 
 - [x] **Fri Sep 25, 5:00 pm** — Lab 1: HTML + CSS (SE 3316A Web Tech)
-- [ ] **Fri Sep 25, 11:59 pm** — Lab 2: Requirements Elicitation (SE 3352A Software Req.)
-- [ ] **Fri Sep 25, 11:59 pm** — Project Assignment 1: Team Contract, group (SE 3351A Project Mgmt)
+- [x] **Fri Sep 25, 11:59 pm** — Lab 2: Requirements Elicitation (SE 3352A Software Req.)
+- [x] **Fri Sep 25, 11:59 pm** — Project Assignment 1: Team Contract, group (SE 3351A Project Mgmt)
 - [ ] **Tue Sep 29, 11:55 pm** — Assignment 1 (SE 3310A Foundations)
 - [ ] **Fri Oct 2, 11:59 pm** — Assignment 1, group (SE 3309A Databases)
 - [ ] **Fri Oct 9, 5:00 pm** — Lab 2: JavaScript (SE 3316A Web Tech)
