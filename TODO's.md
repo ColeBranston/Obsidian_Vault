@@ -18,6 +18,7 @@
 - [x] **Fri Sep 25, 11:59 pm** — Lab 2: Requirements Elicitation (SE 3352A Software Req.)
 - [x] **Fri Sep 25, 11:59 pm** — Project Assignment 1: Team Contract, group (SE 3351A Project Mgmt)
 - [ ] **Tue Sep 29, 11:55 pm** — Assignment 1 (SE 3310A Foundations)
+- [ ] **Tue Sep 29th 11:55 pm extended to Oct 2nd** — Tutorial 2 (Project Management) 
 - [ ] **Fri Oct 2, 11:59 pm** — Assignment 1, group (SE 3309A Databases)
 - [ ] **Fri Oct 9, 5:00 pm** — Lab 2: JavaScript (SE 3316A Web Tech)
 - [ ] **Sun Oct 11, 11:59 pm** — Assignment 01 (ECE 4436A Networking)
