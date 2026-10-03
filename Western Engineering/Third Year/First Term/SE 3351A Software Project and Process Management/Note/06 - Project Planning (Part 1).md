@@ -1,5 +1,5 @@
 ---
-source: 06-Planning_2.pptx
+source: [06-Planning_2.pptx, 06-Planning_3.pptx]
 tags: [SE3351A, ProjectManagement]
 ---
 
@@ -25,6 +25,17 @@ tags: [SE3351A, ProjectManagement]
 > | **Risk** | 26 Plan Risk Management · 27 Identify Risks · 28 Perform Qualitative Risk Analysis · 29 Perform Quantitative Risk Analysis · 30 Plan Risk Responses |
 > | **Procurement** | 31 Plan Procurement Management |
 > | **Stakeholder** | 32 Plan Stakeholder Engagement |
+> | **Software Cost Estimation** *(deck 2: `06-Planning_3`)* | Slides 1–5 of deck 2 repeat slides 1, 2, 3, 5, 6 above · 6 *part divider: Software Cost Estimation* |
+> | ⤷ `Software Cost Estimation` | 7 Software Cost Estimation · 8 Common Methods and Techniques |
+> | ⤷ `Expert Judgment` | 9 Expert Judgment and Analogous Estimation |
+> | ⤷ `Analogous Estimation` | 9 Expert Judgment and Analogous Estimation |
+> | ⤷ `Bottom-Up Estimation` | 10 Bottom-Up Estimation |
+> | ⤷ `Three-Point Estimation` | 11 Three-Point Estimation (PERT) |
+> | ⤷ `Parametric Estimation` | 12 Parametric Estimation (COCOMO) |
+> | ⤷ `COCOMO` | 12 Parametric Estimation (COCOMO) · 13 COCOMO project categories · 14 COCOMO project categories and coefficients |
+> | ⤷ `Function Point Estimation` | 15 Function Point Estimation |
+> | ⤷ Summary of Methods | 16 Summary |
+> | ⤷ In-class Activities | 17 In Class Activities |
 
 ## Recap · Process Framework
 
@@ -109,3 +120,37 @@ The deck uses a proposed **university LMS** as a running example for every proce
 ## Stakeholder
 
 ![[Plan Stakeholder Engagement]]
+
+## Software Cost Estimation
+
+From the follow-up deck `06-Planning_3` (titled *Part 1ii*). It opens with the same recap slides as above, then drills into the techniques behind [[Estimate Costs]].
+
+![[Software Cost Estimation]]
+
+![[Expert Judgment]]
+
+![[Analogous Estimation]]
+
+![[Bottom-Up Estimation]]
+
+![[Three-Point Estimation]]
+
+![[Parametric Estimation]]
+
+![[COCOMO]]
+
+![[Function Point Estimation]]
+
+### Summary of Methods
+
+| Method | Estimation basis | Main advantage | Main limitation |
+|---|---|---|---|
+| [[Expert Judgment]] | Professional experience | Fast and flexible | Subjective |
+| [[Analogous Estimation\|Analogous]] | Similar completed projects | Requires limited detail | Depends on project similarity |
+| [[Bottom-Up Estimation\|Bottom-up]] | Individual work packages | Detailed and transparent | Time-consuming |
+| [[Three-Point Estimation\|Three-point / PERT]] | Optimistic, likely and pessimistic estimates | Explicitly addresses uncertainty | Depends on the quality of the three estimates |
+| [[COCOMO]] | Software size and model coefficients | Systematic and repeatable | Sensitive to size estimates and model suitability |
+| [[Function Point Estimation\|Function points]] | User-visible functionality and logical data | Relatively technology-independent | Requires consistent function classification |
+
+### In-class Activities
+- Slide 17 is only a title, so the activity itself isn't in the deck. Add what was done in class here.
