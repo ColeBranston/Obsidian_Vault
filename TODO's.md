@@ -6,7 +6,7 @@
 - [ ] Complete Networking Lab 1
 	- [x] Prep by reading over material and ensuring MiniNet and Wireshark are installed
 
-- [ ] Complete Foundations of Software Lab 1
+- [x] Complete Foundations of Software Lab 1
 	- [ ] Check Lab 1 Via Gradescope for requirements
 	- [ ] Re-read notes in prep for lab
 	- [ ] complete and submit lab
@@ -17,9 +17,9 @@
 - [x] **Fri Sep 25, 5:00 pm** — Lab 1: HTML + CSS (SE 3316A Web Tech)
 - [x] **Fri Sep 25, 11:59 pm** — Lab 2: Requirements Elicitation (SE 3352A Software Req.)
 - [x] **Fri Sep 25, 11:59 pm** — Project Assignment 1: Team Contract, group (SE 3351A Project Mgmt)
-- [ ] **Tue Sep 29, 11:55 pm** — Assignment 1 (SE 3310A Foundations)
-- [ ] **Tue Sep 29th 11:55 pm extended to Oct 2nd** — Tutorial 2 (Project Management) 
-- [ ] **Fri Oct 2, 11:59 pm** — Assignment 1, group (SE 3309A Databases)
+- [x] **Tue Sep 29, 11:55 pm** — Assignment 1 (SE 3310A Foundations)
+- [x] **Tue Sep 29th 11:55 pm extended to Oct 2nd** — Tutorial 2 (Project Management) 
+- [x] **Fri Oct 2, 11:59 pm** — Assignment 1, group (SE 3309A Databases)
 - [ ] **Fri Oct 9, 5:00 pm** — Lab 2: JavaScript (SE 3316A Web Tech)
 - [ ] **Sun Oct 11, 11:59 pm** — Assignment 01 (ECE 4436A Networking)
 - [ ] **Tue Oct 20, 11:55 pm** — Assignment 2 (SE 3310A Foundations)
