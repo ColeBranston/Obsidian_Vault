@@ -4,7 +4,7 @@
 - [x] Complete Lab 2 for Software Req. & Analysis
 
 - [ ] Complete Networking Lab 1
-	- [x] Prep by reading over material and ensuring MiniNet and Wireshark are installed
+	- [ ] Prep by reading over material and ensuring MiniNet and Wireshark are installed
 
 - [x] Complete Foundations of Software Lab 1
 	- [ ] Check Lab 1 Via Gradescope for requirements
@@ -20,8 +20,8 @@
 - [x] **Tue Sep 29, 11:55 pm** — Assignment 1 (SE 3310A Foundations)
 - [x] **Tue Sep 29th 11:55 pm extended to Oct 2nd** — Tutorial 2 (Project Management) 
 - [x] **Fri Oct 2, 11:59 pm** — Assignment 1, group (SE 3309A Databases)
-- [ ] **Fri Oct 9, 5:00 pm** — Lab 2: JavaScript (SE 3316A Web Tech)
-- [ ] **Sun Oct 11, 11:59 pm** — Assignment 01 (ECE 4436A Networking)
+- [x] **Fri Oct 9, 5:00 pm** — Lab 2: JavaScript (SE 3316A Web Tech)
+- [ ] **Sun Oct 19, 11:59 pm** — Assignment 01 (ECE 4436A Networking)
 - [ ] **Tue Oct 20, 11:55 pm** — Assignment 2 (SE 3310A Foundations)
 - [ ] **Fri Oct 23, 5:00 pm** — Lab 3: REST API (SE 3316A Web Tech)
 - [ ] **Fri Oct 30, 12:30 pm (tutorial)** — Midterm Test (SE 3310A Foundations)
@@ -41,3 +41,20 @@
 - [ ] SE 3316A Web Tech — Midterm
 - [ ] SE 3351A Project Mgmt — Project assignments, tutorials + Midterm
 - [ ] SE 3352A Software Req. — Labs, group project, review questions + Midterm
+
+
+## Midterms
+Username: cbranst2 · Student #: 251358984
+
+- [ ] **Thu Oct 22, 10:45 am – 12:15 pm** — Midterm (SE 3352A Software Req.)
+	- Room: Elborn College 2155
+	- Format: MCQs + short answer (modelling questions) — review the sample exam posted
+- [ ] **Sun Oct 25, time TBD (likely after 12:30 pm)** — Midterm, 2 hrs (ECE 4436A Networking)
+	- Keep the whole day free — room, time and exam rules coming in a separate announcement (expected by Mon)
+- [ ] **Mon Oct 26, 11:30 am** — Midterm (SE 3316A Web Tech)
+	- Room: NSC 1 (regular Monday class)
+	- If missed or final mark is higher, final mark replaces midterm
+- [ ] **Tue Oct 27, 12:30 – 2:15 pm** — Midterm (SE 3309A Databases)
+	- Room: TC 375 (last names A–Pen)
+- [ ] **Fri Oct 30, 12:30 pm (tutorial)** — Midterm (SE 3310A Foundations)
+- [ ] **Mon Nov 2, 3:15 pm** — Midterm, moved from original date (SE 3351A Project Mgmt)
